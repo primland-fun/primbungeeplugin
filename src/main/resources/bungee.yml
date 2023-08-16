@@ -1,0 +1,5 @@
+name: "PrimBungeePlugin"
+description: "Some utils for PrimLand (Proxy/Bungee)"
+version: "0.1.0-SNAPSHOT"
+author: TheStngularity
+main: ru.primland.bungee_plugin.PrimBungeePlugin
